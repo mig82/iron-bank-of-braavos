@@ -3,7 +3,7 @@ const merge = require("./src/merge")
 
 async function run(){
 	var db = await merge("db")
-	db.timestamp = (new Date()).toISOString()
+	//db.timestamp = (new Date()).toISOString()
 	fs.writeJson("./db.json", db, {
 		spaces: "\t"
 	})
