@@ -12,7 +12,23 @@ https://my-json-server.typicode.com/mig82/iron-bank-of-braavos
 
 Using [Typicode](https://github.com/typicode/json-server/)'s amazing [My JSON Server](https://my-json-server.typicode.com/) project.
 
-**Important:** This is **not meant for serious work or production** environments under 
+## Examples:
+
+Query all *Master Card* cards
+
+GET https://my-json-server.typicode.com/mig82/iron-bank-of-braavos/cards?brand=MC
+
+Query all cards held by *Aegon I*
+
+GET https://my-json-server.typicode.com/mig82/iron-bank-of-braavos/cards?holder_id=00uq3rc53x83RPdq00h7
+
+Query all accounts of type *Current Acccount*
+
+GET https://my-json-server.typicode.com/mig82/iron-bank-of-braavos/accounts?type=Current%20Account
+
+## Important:
+
+** This is **not meant for serious work or production** environments under
 *any* circumstance. It is just a toy project with data I use for demos. I reserve the
 right to modify and remove the data or take down the whole thing without notice.
 I probably won't do that, but if you want something you can rely on, just fork it.
