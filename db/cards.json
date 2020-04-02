@@ -1,0 +1,111 @@
+[
+	{
+		"holder_id": "00uq3rc53x83RPdq00h7",
+		"type": "Credit Card",
+		"holder": "Miguelángel Fernández",
+		"balance": 2130.25,
+		"limit": 15000,
+		"currency": "EUR",
+		"plastic": "https://quantum-demos1.s3.eu-central-1.amazonaws.com/CardsCarousel/blue_poly.png",
+		"pan": "5000001234561699",
+		"brand": "MC",
+		"status": "active",
+		"expires": "20220229"
+	}, {
+		"holder_id": "00uq3rc53x83RPdq00h7",
+		"type": "Credit Card",
+		"holder": "M. Fernández",
+		"balance": 4284.61,
+		"limit": 8000,
+		"currency": "GBP",
+		"plastic": "https://quantum-demos1.s3.eu-central-1.amazonaws.com/CardsCarousel/red_poly.png",
+		"pan": "5000001234561699",
+		"brand": "MC",
+		"status": "active",
+		"expires": "20220218"
+	},{
+		"holder_id": "00up81anrmtyah4i70h7",
+		"type": "Credit Card",
+		"holder": "James M. Hendrix",
+		"balance": 190,
+		"limit": 2500,
+		"currency": "USD",
+		"plastic": "https://quantum-demos1.s3.eu-central-1.amazonaws.com/CardsCarousel/blue_poly.png",
+		"pan": "5000001234561699",
+		"brand": "MC",
+		"status": "active",
+		"expires": "20220229"
+	}, {
+		"holder_id": "00up81anrmtyah4i70h7",
+		"type": "Credit Card",
+		"holder": "James M. Hendrix",
+		"balance": 31084.61,
+		"limit": 100000,
+		"currency": "CZK",
+		"plastic": "https://quantum-demos1.s3.eu-central-1.amazonaws.com/CardsCarousel/green_gradient.png",
+		"pan": "5000001234561699",
+		"brand": "MC",
+		"status": "blocked",
+		"expires": "20220218"
+	}, {
+		"holder_id": "00up81anrmtyah4i70h7",
+		"type": "Business Credit Card",
+		"holder": "J. M. Hendrix",
+		"balance": 125.78,
+		"limit": 2500,
+		"currency": "EUR",
+		"plastic": "https://quantum-demos1.s3.eu-central-1.amazonaws.com/CardsCarousel/magenta_lines.png",
+		"pan": "4000001234779737",
+		"brand": "Visa",
+		"status": "active",
+		"expires": "20220218"
+	}, {
+		"holder_id": "00up81anrmtyah4i70h7",
+		"type": "Prepaid Card",
+		"holder": "James Hendrix",
+		"balance": 0.00,
+		"limit": 200,
+		"currency": "EUR",
+		"plastic": "https://quantum-demos1.s3.eu-central-1.amazonaws.com/CardsCarousel/blue_poly.png",
+		"pan": "4000001234774555",
+		"brand": "Visa",
+		"status": "active",
+		"expires": "20220107"
+	}, {
+		"holder_id": "00up819zaxZ8iKyFq0h7",
+		"type": "Credit Card",
+		"holder": "Janis Lyn Joplin ",
+		"balance": 1203.61,
+		"limit": 7000,
+		"currency": "GBP",
+		"plastic": "https://quantum-demos1.s3.eu-central-1.amazonaws.com/CardsCarousel/red_poly.png",
+		"pan": "5000001234879054",
+		"brand": "MC",
+		"status": "active",
+		"expires": "20220218"
+	}, {
+		"holder_id": "00up819zaxZ8iKyFq0h7",
+		"type": "Debit Card",
+		"holder": "J. Joplin ",
+		"balance": 805.25,
+		"limit": 6000,
+		"currency": "EUR",
+		"plastic": "https://quantum-demos1.s3.eu-central-1.amazonaws.com/CardsCarousel/rows_of_berries.png",
+		"pan": "4000001234234551",
+		"brand": "Visa",
+		"status": "expired",
+		"expires": "20200106"
+	}, {
+		"holder_id": "00up819zaxZ8iKyFq0h7",
+		"type": "Business Credit Card",
+		"holder": "Janis Joplin",
+		"balance": 2530.15,
+		"limit": 12000,
+		"currency": "EUR",
+		"plastic": "https://quantum-demos1.s3.eu-central-1.amazonaws.com/CardsCarousel/blue_poly.png",
+		"pan": "4000001234234532",
+		"brand": "Visa",
+		"status": "active",
+		"expires": "20220218"
+	}
+]

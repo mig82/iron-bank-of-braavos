@@ -1,0 +1,31 @@
+{
+  "name": "iron-bank-of-braavos",
+  "version": "1.0.0",
+  "description": "A dummy API of a fake bank",
+  "main": "index.js",
+  "scripts": {
+    "scripts": {
+		"build": "node index.js",
+		"test": "jasmine"
+	}
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mig82/iron-bank-of-braavos.git"
+  },
+  "author": "Miguelángel Fernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mig82/iron-bank-of-braavos/issues"
+  },
+  "homepage": "https://github.com/mig82/iron-bank-of-braavos#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "jasmine": "^3.5.0"
+  },
+  "dependencies": {
+    "find": "^0.3.0",
+    "fs-extra": "^9.0.0"
+  }
+}

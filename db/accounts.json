@@ -1,0 +1,102 @@
+[
+	{
+		"holder_id": "00uq3rc53x83RPdq00h7",
+		"type": "Savings Account",
+		"holder": "Miguelángel Fernández",
+		"balance": 32000.00,
+		"currency": "EUR",
+		"icon": "\uF153",
+		"routing": "iban",
+		"iban": "CB015000001234561699",
+		"status": "active",
+		"opened": "20180229"
+	}, {
+		"holder_id": "00uq3rc53x83RPdq00h7",
+		"type": "Savings Account",
+		"holder": "M. Fernández",
+		"balance": 32000.00,
+		"currency": "GBP",
+		"icon": "\uF154",
+		"routing": "iban",
+		"iban": "CB015000001234561699",
+		"status": "active",
+		"opened": "20180218"
+	},{
+		"holder_id": "00up81anrmtyah4i70h7",
+		"type": "Savings Account",
+		"holder": "James M. Hendrix",
+		"balance": 32000.00,
+		"currency": "USD",
+		"icon": "\uF155",
+		"routing": "iban",
+		"iban": "CB015000001234561699",
+		"status": "active",
+		"opened": "20180229"
+	}, {
+		"holder_id": "00up81anrmtyah4i70h7",
+		"type": "Savings Account",
+		"holder": "James M. Hendrix",
+		"balance": 32000.00,
+		"currency": "CZK",
+		"icon": "Kč",
+		"routing": "iban",
+		"iban": "CB015000001234561699",
+		"status": "active",
+		"opened": "20180218"
+	}, {
+		"holder_id": "00up81anrmtyah4i70h7",
+		"type": "Current Account",
+		"holder": "J. M. Hendrix",
+		"balance": 4500.00,
+		"currency": "EUR",
+		"icon": "\uF153",
+		"routing": "iban",
+		"iban": "CB014000001234779737",
+		"status": "active",
+		"opened": "20180218"
+	}, {
+		"holder_id": "00up81anrmtyah4i70h7",
+		"type": "Prepaid Card",
+		"holder": "James Hendrix",
+		"balance": 4500.00,
+		"currency": "EUR",
+		"icon": "\uF153",
+		"routing": "iban",
+		"iban": "CB014000001234774555",
+		"status": "active",
+		"opened": "20180107"
+	}, {
+		"holder_id": "00up819zaxZ8iKyFq0h7",
+		"type": "Savings Account",
+		"holder": "Janis Lyn Joplin ",
+		"balance": 32000.00,
+		"currency": "GBP",
+		"icon": "\uF154",
+		"routing": "iban",
+		"iban": "CB015000001234879054",
+		"status": "active",
+		"opened": "20180218"
+	}, {
+		"holder_id": "00up819zaxZ8iKyFq0h7",
+		"type": "Debit Card",
+		"holder": "J. Joplin ",
+		"balance": 4500.00,
+		"currency": "EUR",
+		"icon": "\uF153",
+		"routing": "iban",
+		"iban": "CB014000001234234551",
+		"status": "active",
+		"opened": "20180106"
+	}, {
+		"holder_id": "00up819zaxZ8iKyFq0h7",
+		"type": "Current Account",
+		"holder": "Janis Joplin",
+		"balance": 4500.00,
+		"currency": "EUR",
+		"icon": "\uF153",
+		"routing": "iban",
+		"iban": "CB014000001234234532",
+		"status": "active",
+		"opened": "20180218"
+	}
+]
