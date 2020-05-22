@@ -1,6 +1,7 @@
 [
 	{
-		"holder_id": "00uq3rc53x83RPdq00h7",
+		"holder_id": "00urnvcim4XBcSTRC0h7",
+		"holder_email": "atarg@foo.com",
 		"type": "Credit Card",
 		"holder": "Aegon Targaryen",
 		"balance": 2130.25,
@@ -12,7 +13,8 @@
 		"status": "active",
 		"expires": "20220229"
 	}, {
-		"holder_id": "00uq3rc53x83RPdq00h7",
+		"holder_id": "00urnvcim4XBcSTRC0h7",
+		"holder_email": "atarg@foo.com",
 		"type": "Credit Card",
 		"holder": "A. Targaryen",
 		"balance": 4284.61,

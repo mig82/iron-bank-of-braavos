@@ -1,7 +1,8 @@
 {
 	"accounts": [
 		{
-			"holder_id": "00uq3rc53x83RPdq00h7",
+			"holder_id": "00urnvcim4XBcSTRC0h7",
+			"holder_email": "atarg@foo.com",
 			"type": "Savings Account",
 			"holder": "Aegon Targaryen",
 			"balance": 32000,
@@ -13,7 +14,8 @@
 			"opened": "20180229"
 		},
 		{
-			"holder_id": "00uq3rc53x83RPdq00h7",
+			"holder_id": "00urnvcim4XBcSTRC0h7",
+			"holder_email": "atarg@foo.com",
 			"type": "Savings Account",
 			"holder": "A. Targaryen",
 			"balance": 32000,
@@ -25,7 +27,8 @@
 			"opened": "20180218"
 		},
 		{
-			"holder_id": "00up81anrmtyah4i70h7",
+			"holder_id": "00urnv0s97hiSAvwH0h7",
+			"holder_email": "bstark@foo.com",
 			"type": "Savings Account",
 			"holder": "Brandon Stark",
 			"balance": 32000,
@@ -37,7 +40,8 @@
 			"opened": "20180229"
 		},
 		{
-			"holder_id": "00up81anrmtyah4i70h7",
+			"holder_id": "00urnv0s97hiSAvwH0h7",
+			"holder_email": "bstark@foo.com",
 			"type": "Savings Account",
 			"holder": "B. Stark",
 			"balance": 32000,
@@ -49,7 +53,8 @@
 			"opened": "20180218"
 		},
 		{
-			"holder_id": "00up81anrmtyah4i70h7",
+			"holder_id": "00urnv0s97hiSAvwH0h7",
+			"holder_email": "bstark@foo.com",
 			"type": "Current Account",
 			"holder": "Brandon Stark",
 			"balance": 4500,
@@ -61,7 +66,8 @@
 			"opened": "20180218"
 		},
 		{
-			"holder_id": "00up81anrmtyah4i70h7",
+			"holder_id": "00urnv0s97hiSAvwH0h7",
+			"holder_email": "bstark@foo.com",
 			"type": "Prepaid Card",
 			"holder": "B. Stark",
 			"balance": 4500,
@@ -111,7 +117,8 @@
 	],
 	"cards": [
 		{
-			"holder_id": "00uq3rc53x83RPdq00h7",
+			"holder_id": "00urnvcim4XBcSTRC0h7",
+			"holder_email": "atarg@foo.com",
 			"type": "Credit Card",
 			"holder": "Aegon Targaryen",
 			"balance": 2130.25,
@@ -124,7 +131,8 @@
 			"expires": "20220229"
 		},
 		{
-			"holder_id": "00uq3rc53x83RPdq00h7",
+			"holder_id": "00urnvcim4XBcSTRC0h7",
+			"holder_email": "atarg@foo.com",
 			"type": "Credit Card",
 			"holder": "A. Targaryen",
 			"balance": 4284.61,

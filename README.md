@@ -28,7 +28,7 @@ GET https://my-json-server.typicode.com/mig82/iron-bank-of-braavos/accounts?type
 
 ## Important:
 
-** This is **not meant for serious work or production** environments under
+This is **not meant for serious work or production** environments under
 *any* circumstance. It is just a toy project with data I use for demos. I reserve the
 right to modify and remove the data or take down the whole thing without notice.
 I probably won't do that, but if you want something you can rely on, just fork it.
