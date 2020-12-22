@@ -239,639 +239,1038 @@
 	"currencies": {
 		"AED": {
 			"name": "United Arab Emirates dirham",
-			"locations": "United Arab Emirates"
+			"locations": [
+				"United Arab Emirates"
+			]
 		},
 		"AFN": {
 			"name": "Afghan afghani",
-			"locations": "Afghanistan"
+			"locations": [
+				"Afghanistan"
+			]
 		},
 		"ALL": {
 			"name": "Albanian lek",
-			"locations": "Albania"
+			"locations": [
+				"Albania"
+			]
 		},
 		"AMD": {
 			"name": "Armenian dram",
-			"locations": "Armenia"
+			"locations": [
+				"Armenia"
+			]
 		},
 		"ANG": {
 			"name": "Netherlands Antillean guilder",
-			"locations": "Curaçao (CW),  Sint Maarten (SX)"
+			"locations": [
+				"Curaçao (CW)",
+				"Sint Maarten (SX)"
+			]
 		},
 		"AOA": {
 			"name": "Angolan kwanza",
-			"locations": "Angola"
+			"locations": [
+				"Angola"
+			]
 		},
 		"ARS": {
 			"name": "Argentine peso",
-			"locations": "Argentina"
+			"locations": [
+				"Argentina"
+			]
 		},
 		"AUD": {
 			"name": "Australian dollar",
-			"locations": "Australia,  Christmas Island (CX),  Cocos (Keeling) Islands (CC),  Heard Island and McDonald Islands (HM),  Kiribati (KI),  Nauru (NR),  Norfolk Island (NF),  Tuvalu (TV)"
+			"locations": [
+				"Australia",
+				"Christmas Island (CX)",
+				"Cocos (Keeling) Islands (CC)",
+				"Heard Island and McDonald Islands (HM)",
+				"Kiribati (KI)",
+				"Nauru (NR)",
+				"Norfolk Island (NF)",
+				"Tuvalu (TV)"
+			]
 		},
 		"AWG": {
 			"name": "Aruban florin",
-			"locations": "Aruba"
+			"locations": [
+				"Aruba"
+			]
 		},
 		"AZN": {
 			"name": "Azerbaijani manat",
-			"locations": "Azerbaijan"
+			"locations": [
+				"Azerbaijan"
+			]
 		},
 		"BAM": {
 			"name": "Bosnia and Herzegovina convertible mark",
-			"locations": "Bosnia and Herzegovina"
+			"locations": [
+				"Bosnia and Herzegovina"
+			]
 		},
 		"BBD": {
 			"name": "Barbados dollar",
-			"locations": "Barbados"
+			"locations": [
+				"Barbados"
+			]
 		},
 		"BDT": {
 			"name": "Bangladeshi taka",
-			"locations": "Bangladesh"
+			"locations": [
+				"Bangladesh"
+			]
 		},
 		"BGN": {
 			"name": "Bulgarian lev",
-			"locations": "Bulgaria"
+			"locations": [
+				"Bulgaria"
+			]
 		},
 		"BHD": {
 			"name": "Bahraini dinar",
-			"locations": "Bahrain"
+			"locations": [
+				"Bahrain"
+			]
 		},
 		"BIF": {
 			"name": "Burundian franc",
-			"locations": "Burundi"
+			"locations": [
+				"Burundi"
+			]
 		},
 		"BMD": {
 			"name": "Bermudian dollar",
-			"locations": "Bermuda"
+			"locations": [
+				"Bermuda"
+			]
 		},
 		"BND": {
 			"name": "Brunei dollar",
-			"locations": "Brunei"
+			"locations": [
+				"Brunei"
+			]
 		},
 		"BOB": {
 			"name": "Boliviano",
-			"locations": "Bolivia"
+			"locations": [
+				"Bolivia"
+			]
 		},
 		"BOV": {
 			"name": "Bolivian Mvdol (funds code)",
-			"locations": "Bolivia"
+			"locations": [
+				"Bolivia"
+			]
 		},
 		"BRL": {
 			"name": "Brazilian real",
-			"locations": "Brazil"
+			"locations": [
+				"Brazil"
+			]
 		},
 		"BSD": {
 			"name": "Bahamian dollar",
-			"locations": "Bahamas"
+			"locations": [
+				"Bahamas"
+			]
 		},
 		"BTN": {
 			"name": "Bhutanese ngultrum",
-			"locations": "Bhutan"
+			"locations": [
+				"Bhutan"
+			]
 		},
 		"BWP": {
 			"name": "Botswana pula",
-			"locations": "Botswana"
+			"locations": [
+				"Botswana"
+			]
 		},
 		"BYN": {
 			"name": "Belarusian ruble",
-			"locations": "Belarus"
+			"locations": [
+				"Belarus"
+			]
 		},
 		"BZD": {
 			"name": "Belize dollar",
-			"locations": "Belize"
+			"locations": [
+				"Belize"
+			]
 		},
 		"CAD": {
 			"name": "Canadian dollar",
-			"locations": "Canada"
+			"locations": [
+				"Canada"
+			]
 		},
 		"CDF": {
 			"name": "Congolese franc",
-			"locations": "Democratic Republic of the Congo"
+			"locations": [
+				"Democratic Republic of the Congo"
+			]
 		},
 		"CHE": {
 			"name": "WIR euro (complementary currency)",
-			"locations": " Switzerland"
+			"locations": [
+				" Switzerland"
+			]
 		},
 		"CHF": {
 			"name": "Swiss franc",
-			"locations": " Switzerland,  Liechtenstein (LI)"
+			"locations": [
+				" Switzerland",
+				"Liechtenstein (LI)"
+			]
 		},
 		"CHW": {
 			"name": "WIR franc (complementary currency)",
-			"locations": " Switzerland"
+			"locations": [
+				" Switzerland"
+			]
 		},
 		"CLF": {
 			"name": "Unidad de Fomento (funds code)",
-			"locations": "Chile"
+			"locations": [
+				"Chile"
+			]
 		},
 		"CLP": {
 			"name": "Chilean peso",
-			"locations": "Chile"
+			"locations": [
+				"Chile"
+			]
 		},
 		"CNY": {
 			"name": "Chinese yuan",
-			"locations": "China"
+			"locations": [
+				"China"
+			]
 		},
 		"COP": {
 			"name": "Colombian peso",
-			"locations": "Colombia"
+			"locations": [
+				"Colombia"
+			]
 		},
 		"COU": {
 			"name": "Unidad de Valor Real (UVR) (funds code)",
-			"locations": "Colombia"
+			"locations": [
+				"Colombia"
+			]
 		},
 		"CRC": {
 			"name": "Costa Rican colon",
-			"locations": "Costa Rica"
+			"locations": [
+				"Costa Rica"
+			]
 		},
 		"CUC": {
 			"name": "Cuban convertible peso",
-			"locations": "Cuba"
+			"locations": [
+				"Cuba"
+			]
 		},
 		"CUP": {
 			"name": "Cuban peso",
-			"locations": "Cuba"
+			"locations": [
+				"Cuba"
+			]
 		},
 		"CVE": {
 			"name": "Cape Verdean escudo",
-			"locations": "Cabo Verde"
+			"locations": [
+				"Cabo Verde"
+			]
 		},
 		"CZK": {
 			"name": "Czech koruna",
-			"locations": "Czechia "
+			"locations": [
+				"Czechia "
+			]
 		},
 		"DJF": {
 			"name": "Djiboutian franc",
-			"locations": "Djibouti"
+			"locations": [
+				"Djibouti"
+			]
 		},
 		"DKK": {
 			"name": "Danish krone",
-			"locations": "Denmark,  Faroe Islands (FO),  Greenland (GL)"
+			"locations": [
+				"Denmark",
+				"Faroe Islands (FO)",
+				"Greenland (GL)"
+			]
 		},
 		"DOP": {
 			"name": "Dominican peso",
-			"locations": "Dominican Republic"
+			"locations": [
+				"Dominican Republic"
+			]
 		},
 		"DZD": {
 			"name": "Algerian dinar",
-			"locations": "Algeria"
+			"locations": [
+				"Algeria"
+			]
 		},
 		"EGP": {
 			"name": "Egyptian pound",
-			"locations": "Egypt"
+			"locations": [
+				"Egypt"
+			]
 		},
 		"ERN": {
 			"name": "Eritrean nakfa",
-			"locations": "Eritrea"
+			"locations": [
+				"Eritrea"
+			]
 		},
 		"ETB": {
 			"name": "Ethiopian birr",
-			"locations": "Ethiopia"
+			"locations": [
+				"Ethiopia"
+			]
 		},
 		"EUR": {
 			"name": "Euro",
-			"locations": "Åland Islands (AX),  European Union (EU),  Andorra (AD),  Austria (AT),  Belgium (BE),  Cyprus (CY),  Estonia (EE),  Finland (FI),  France (FR),  French Southern and Antarctic Lands (TF),  Germany (DE),  Greece (GR),  Guadeloupe (GP),  Ireland (IE),  Italy (IT),  Latvia (LV),  Lithuania (LT),  Luxembourg (LU),  Malta (MT),  French Guiana (GF),  Martinique (MQ),  Mayotte (YT),  Monaco (MC),  Montenegro (ME),  Netherlands (NL),  Portugal (PT),  Réunion (RE),  Saint Barthélemy (BL),  Saint Martin (MF),  Saint Pierre and Miquelon (PM),  San Marino (SM),  Slovakia (SK),  Slovenia (SI),  Spain (ES),   Vatican City (VA)"
+			"locations": [
+				"Åland Islands (AX)",
+				"European Union (EU)",
+				"Andorra (AD)",
+				"Austria (AT)",
+				"Belgium (BE)",
+				"Cyprus (CY)",
+				"Estonia (EE)",
+				"Finland (FI)",
+				"France (FR)",
+				"French Southern and Antarctic Lands (TF)",
+				"Germany (DE)",
+				"Greece (GR)",
+				"Guadeloupe (GP)",
+				"Ireland (IE)",
+				"Italy (IT)",
+				"Latvia (LV)",
+				"Lithuania (LT)",
+				"Luxembourg (LU)",
+				"Malta (MT)",
+				"French Guiana (GF)",
+				"Martinique (MQ)",
+				"Mayotte (YT)",
+				"Monaco (MC)",
+				"Montenegro (ME)",
+				"Netherlands (NL)",
+				"Portugal (PT])",
+				"Réunion (RE)",
+				"Saint Barthélemy (BL)",
+				"Saint Martin (MF)",
+				"Saint Pierre and Miquelon (PM)",
+				"San Marino (SM)",
+				"Slovakia (SK)",
+				"Slovenia (SI)",
+				"Spain (ES)",
+				" Vatican City (VA)"
+			]
 		},
 		"FJD": {
 			"name": "Fiji dollar",
-			"locations": "Fiji"
+			"locations": [
+				"Fiji"
+			]
 		},
 		"FKP": {
 			"name": "Falkland Islands pound",
-			"locations": "Falkland Islands (pegged to GBP 1:1)"
+			"locations": [
+				"Falkland Islands (pegged to GBP 1:1)"
+			]
 		},
 		"GBP": {
 			"name": "Pound sterling",
-			"locations": "United Kingdom,  Isle of Man (IM, see Manx pound),  Jersey (JE, see Jersey pound),  Guernsey (GG, see Guernsey pound)"
+			"locations": [
+				"United Kingdom",
+				"Isle of Man (IM, see Manx pound)",
+				"Jersey (JE, see Jersey pound)",
+				"Guernsey (GG, see Guernsey pound)"
+			]
 		},
 		"GEL": {
 			"name": "Georgian lari",
-			"locations": "Georgia"
+			"locations": [
+				"Georgia"
+			]
 		},
 		"GHS": {
 			"name": "Ghanaian cedi",
-			"locations": "Ghana"
+			"locations": [
+				"Ghana"
+			]
 		},
 		"GIP": {
 			"name": "Gibraltar pound",
-			"locations": "Gibraltar (pegged to GBP 1:1)"
+			"locations": [
+				"Gibraltar (pegged to GBP 1:1)"
+			]
 		},
 		"GMD": {
 			"name": "Gambian dalasi",
-			"locations": "Gambia"
+			"locations": [
+				"Gambia"
+			]
 		},
 		"GNF": {
 			"name": "Guinean franc",
-			"locations": "Guinea"
+			"locations": [
+				"Guinea"
+			]
 		},
 		"GTQ": {
 			"name": "Guatemalan quetzal",
-			"locations": "Guatemala"
+			"locations": [
+				"Guatemala"
+			]
 		},
 		"GYD": {
 			"name": "Guyanese dollar",
-			"locations": "Guyana"
+			"locations": [
+				"Guyana"
+			]
 		},
 		"HKD": {
 			"name": "Hong Kong dollar",
-			"locations": "Hong Kong"
+			"locations": [
+				"Hong Kong"
+			]
 		},
 		"HNL": {
 			"name": "Honduran lempira",
-			"locations": "Honduras"
+			"locations": [
+				"Honduras"
+			]
 		},
 		"HRK": {
 			"name": "Croatian kuna",
-			"locations": "Croatia"
+			"locations": [
+				"Croatia"
+			]
 		},
 		"HTG": {
 			"name": "Haitian gourde",
-			"locations": "Haiti"
+			"locations": [
+				"Haiti"
+			]
 		},
 		"HUF": {
 			"name": "Hungarian forint",
-			"locations": "Hungary"
+			"locations": [
+				"Hungary"
+			]
 		},
 		"IDR": {
 			"name": "Indonesian rupiah",
-			"locations": "Indonesia"
+			"locations": [
+				"Indonesia"
+			]
 		},
 		"ILS": {
 			"name": "Israeli new shekel",
-			"locations": "Israel"
+			"locations": [
+				"Israel"
+			]
 		},
 		"INR": {
 			"name": "Indian rupee",
-			"locations": "India,  Bhutan"
+			"locations": [
+				"India",
+				"Bhutan"
+			]
 		},
 		"IQD": {
 			"name": "Iraqi dinar",
-			"locations": "Iraq"
+			"locations": [
+				"Iraq"
+			]
 		},
 		"IRR": {
 			"name": "Iranian rial",
-			"locations": "Iran"
+			"locations": [
+				"Iran"
+			]
 		},
 		"ISK": {
 			"name": "Icelandic króna",
-			"locations": "Iceland"
+			"locations": [
+				"Iceland"
+			]
 		},
 		"JMD": {
 			"name": "Jamaican dollar",
-			"locations": "Jamaica"
+			"locations": [
+				"Jamaica"
+			]
 		},
 		"JOD": {
 			"name": "Jordanian dinar",
-			"locations": "Jordan"
+			"locations": [
+				"Jordan"
+			]
 		},
 		"JPY": {
 			"name": "Japanese yen",
-			"locations": "Japan"
+			"locations": [
+				"Japan"
+			]
 		},
 		"KES": {
 			"name": "Kenyan shilling",
-			"locations": "Kenya"
+			"locations": [
+				"Kenya"
+			]
 		},
 		"KGS": {
 			"name": "Kyrgyzstani som",
-			"locations": "Kyrgyzstan"
+			"locations": [
+				"Kyrgyzstan"
+			]
 		},
 		"KHR": {
 			"name": "Cambodian riel",
-			"locations": "Cambodia"
+			"locations": [
+				"Cambodia"
+			]
 		},
 		"KMF": {
 			"name": "Comoro franc",
-			"locations": "Comoros"
+			"locations": [
+				"Comoros"
+			]
 		},
 		"KPW": {
 			"name": "North Korean won",
-			"locations": "North Korea"
+			"locations": [
+				"North Korea"
+			]
 		},
 		"KRW": {
 			"name": "South Korean won",
-			"locations": "South Korea"
+			"locations": [
+				"South Korea"
+			]
 		},
 		"KWD": {
 			"name": "Kuwaiti dinar",
-			"locations": "Kuwait"
+			"locations": [
+				"Kuwait"
+			]
 		},
 		"KYD": {
 			"name": "Cayman Islands dollar",
-			"locations": "Cayman Islands"
+			"locations": [
+				"Cayman Islands"
+			]
 		},
 		"KZT": {
 			"name": "Kazakhstani tenge",
-			"locations": "Kazakhstan"
+			"locations": [
+				"Kazakhstan"
+			]
 		},
 		"LAK": {
 			"name": "Lao kip",
-			"locations": "Laos"
+			"locations": [
+				"Laos"
+			]
 		},
 		"LBP": {
 			"name": "Lebanese pound",
-			"locations": "Lebanon"
+			"locations": [
+				"Lebanon"
+			]
 		},
 		"LKR": {
 			"name": "Sri Lankan rupee",
-			"locations": "Sri Lanka"
+			"locations": [
+				"Sri Lanka"
+			]
 		},
 		"LRD": {
 			"name": "Liberian dollar",
-			"locations": "Liberia"
+			"locations": [
+				"Liberia"
+			]
 		},
 		"LSL": {
 			"name": "Lesotho loti",
-			"locations": "Lesotho"
+			"locations": [
+				"Lesotho"
+			]
 		},
 		"LYD": {
 			"name": "Libyan dinar",
-			"locations": "Libya"
+			"locations": [
+				"Libya"
+			]
 		},
 		"MAD": {
 			"name": "Moroccan dirham",
-			"locations": "Morocco,  Western Sahara"
+			"locations": [
+				"Morocco",
+				"Western Sahara"
+			]
 		},
 		"MDL": {
 			"name": "Moldovan leu",
-			"locations": "Moldova"
+			"locations": [
+				"Moldova"
+			]
 		},
 		"MGA": {
 			"name": "Malagasy ariary",
-			"locations": "Madagascar"
+			"locations": [
+				"Madagascar"
+			]
 		},
 		"MKD": {
 			"name": "Macedonian denar",
-			"locations": "North Macedonia"
+			"locations": [
+				"North Macedonia"
+			]
 		},
 		"MMK": {
 			"name": "Myanmar kyat",
-			"locations": "Myanmar"
+			"locations": [
+				"Myanmar"
+			]
 		},
 		"MNT": {
 			"name": "Mongolian tögrög",
-			"locations": "Mongolia"
+			"locations": [
+				"Mongolia"
+			]
 		},
 		"MOP": {
 			"name": "Macanese pataca",
-			"locations": "Macau"
+			"locations": [
+				"Macau"
+			]
 		},
 		"MRU": {
 			"name": "Mauritanian ouguiya",
-			"locations": "Mauritania"
+			"locations": [
+				"Mauritania"
+			]
 		},
 		"MUR": {
 			"name": "Mauritian rupee",
-			"locations": "Mauritius"
+			"locations": [
+				"Mauritius"
+			]
 		},
 		"MVR": {
 			"name": "Maldivian rufiyaa",
-			"locations": "Maldives"
+			"locations": [
+				"Maldives"
+			]
 		},
 		"MWK": {
 			"name": "Malawian kwacha",
-			"locations": "Malawi"
+			"locations": [
+				"Malawi"
+			]
 		},
 		"MXN": {
 			"name": "Mexican peso",
-			"locations": "Mexico"
+			"locations": [
+				"Mexico"
+			]
 		},
 		"MXV": {
 			"name": "Mexican Unidad de Inversion (UDI) (funds code)",
-			"locations": "Mexico"
+			"locations": [
+				"Mexico"
+			]
 		},
 		"MYR": {
 			"name": "Malaysian ringgit",
-			"locations": "Malaysia"
+			"locations": [
+				"Malaysia"
+			]
 		},
 		"MZN": {
 			"name": "Mozambican metical",
-			"locations": "Mozambique"
+			"locations": [
+				"Mozambique"
+			]
 		},
 		"NAD": {
 			"name": "Namibian dollar",
-			"locations": "Namibia"
+			"locations": [
+				"Namibia"
+			]
 		},
 		"NGN": {
 			"name": "Nigerian naira",
-			"locations": "Nigeria"
+			"locations": [
+				"Nigeria"
+			]
 		},
 		"NIO": {
 			"name": "Nicaraguan córdoba",
-			"locations": "Nicaragua"
+			"locations": [
+				"Nicaragua"
+			]
 		},
 		"NOK": {
 			"name": "Norwegian krone",
-			"locations": "Norway,  Svalbard and  Jan Mayen (SJ),  Bouvet Island (BV)"
+			"locations": [
+				"Norway",
+				"Svalbard and  Jan Mayen (SJ)",
+				"Bouvet Island (BV)"
+			]
 		},
 		"NPR": {
 			"name": "Nepalese rupee",
-			"locations": "  Nepal"
+			"locations": [
+				"  Nepal"
+			]
 		},
 		"NZD": {
 			"name": "New Zealand dollar",
-			"locations": "New Zealand,  Cook Islands (CK),  Niue (NU),  Pitcairn Islands (PN; see also Pitcairn Islands dollar),  Tokelau (TK)"
+			"locations": [
+				"New Zealand",
+				"Cook Islands (CK)",
+				"Niue (NU)",
+				"Pitcairn Islands (PN; see also Pitcairn Islands dollar)",
+				"Tokelau (TK)"
+			]
 		},
 		"OMR": {
 			"name": "Omani rial",
-			"locations": "Oman"
+			"locations": [
+				"Oman"
+			]
 		},
 		"PAB": {
 			"name": "Panamanian balboa",
-			"locations": "Panama"
+			"locations": [
+				"Panama"
+			]
 		},
 		"PEN": {
 			"name": "Peruvian sol",
-			"locations": "Peru"
+			"locations": [
+				"Peru"
+			]
 		},
 		"PGK": {
 			"name": "Papua New Guinean kina",
-			"locations": "Papua New Guinea"
+			"locations": [
+				"Papua New Guinea"
+			]
 		},
 		"PHP": {
 			"name": "Philippine peso",
-			"locations": "Philippines"
+			"locations": [
+				"Philippines"
+			]
 		},
 		"PKR": {
 			"name": "Pakistani rupee",
-			"locations": "Pakistan"
+			"locations": [
+				"Pakistan"
+			]
 		},
 		"PLN": {
 			"name": "Polish złoty",
-			"locations": "Poland"
+			"locations": [
+				"Poland"
+			]
 		},
 		"PYG": {
 			"name": "Paraguayan guaraní",
-			"locations": "Paraguay"
+			"locations": [
+				"Paraguay"
+			]
 		},
 		"QAR": {
 			"name": "Qatari riyal",
-			"locations": "Qatar"
+			"locations": [
+				"Qatar"
+			]
 		},
 		"RON": {
 			"name": "Romanian leu",
-			"locations": "Romania"
+			"locations": [
+				"Romania"
+			]
 		},
 		"RSD": {
 			"name": "Serbian dinar",
-			"locations": "Serbia"
+			"locations": [
+				"Serbia"
+			]
 		},
 		"RUB": {
 			"name": "Russian ruble",
-			"locations": "Russia"
+			"locations": [
+				"Russia"
+			]
 		},
 		"RWF": {
 			"name": "Rwandan franc",
-			"locations": "Rwanda"
+			"locations": [
+				"Rwanda"
+			]
 		},
 		"SAR": {
 			"name": "Saudi riyal",
-			"locations": "Saudi Arabia"
+			"locations": [
+				"Saudi Arabia"
+			]
 		},
 		"SBD": {
 			"name": "Solomon Islands dollar",
-			"locations": "Solomon Islands"
+			"locations": [
+				"Solomon Islands"
+			]
 		},
 		"SCR": {
 			"name": "Seychelles rupee",
-			"locations": "Seychelles"
+			"locations": [
+				"Seychelles"
+			]
 		},
 		"SDG": {
 			"name": "Sudanese pound",
-			"locations": "Sudan"
+			"locations": [
+				"Sudan"
+			]
 		},
 		"SEK": {
 			"name": "Swedish krona/kronor",
-			"locations": "Sweden"
+			"locations": [
+				"Sweden"
+			]
 		},
 		"SGD": {
 			"name": "Singapore dollar",
-			"locations": "Singapore"
+			"locations": [
+				"Singapore"
+			]
 		},
 		"SHP": {
 			"name": "Saint Helena pound",
-			"locations": "Saint Helena (SH-SH),  Ascension Island (SH-AC),  Tristan da Cunha"
+			"locations": [
+				"Saint Helena (SH-SH)",
+				"Ascension Island (SH-AC)",
+				"Tristan da Cunha"
+			]
 		},
 		"SLL": {
 			"name": "Sierra Leonean leone",
-			"locations": "Sierra Leone"
+			"locations": [
+				"Sierra Leone"
+			]
 		},
 		"SOS": {
 			"name": "Somali shilling",
-			"locations": "Somalia"
+			"locations": [
+				"Somalia"
+			]
 		},
 		"SRD": {
 			"name": "Surinamese dollar",
-			"locations": "Suriname"
+			"locations": [
+				"Suriname"
+			]
 		},
 		"SSP": {
 			"name": "South Sudanese pound",
-			"locations": "South Sudan"
+			"locations": [
+				"South Sudan"
+			]
 		},
 		"STN": {
 			"name": "São Tomé and Príncipe dobra",
-			"locations": "São Tomé and Príncipe"
+			"locations": [
+				"São Tomé and Príncipe"
+			]
 		},
 		"SVC": {
 			"name": "Salvadoran colón",
-			"locations": "El Salvador"
+			"locations": [
+				"El Salvador"
+			]
 		},
 		"SYP": {
 			"name": "Syrian pound",
-			"locations": "Syria"
+			"locations": [
+				"Syria"
+			]
 		},
 		"SZL": {
 			"name": "Swazi lilangeni",
-			"locations": "Eswatini"
+			"locations": [
+				"Eswatini"
+			]
 		},
 		"THB": {
 			"name": "Thai baht",
-			"locations": "Thailand"
+			"locations": [
+				"Thailand"
+			]
 		},
 		"TJS": {
 			"name": "Tajikistani somoni",
-			"locations": "Tajikistan"
+			"locations": [
+				"Tajikistan"
+			]
 		},
 		"TMT": {
 			"name": "Turkmenistan manat",
-			"locations": "Turkmenistan"
+			"locations": [
+				"Turkmenistan"
+			]
 		},
 		"TND": {
 			"name": "Tunisian dinar",
-			"locations": "Tunisia"
+			"locations": [
+				"Tunisia"
+			]
 		},
 		"TOP": {
 			"name": "Tongan paʻanga",
-			"locations": "Tonga"
+			"locations": [
+				"Tonga"
+			]
 		},
 		"TRY": {
 			"name": "Turkish lira",
-			"locations": "Turkey"
+			"locations": [
+				"Turkey"
+			]
 		},
 		"TTD": {
 			"name": "Trinidad and Tobago dollar",
-			"locations": "Trinidad and Tobago"
+			"locations": [
+				"Trinidad and Tobago"
+			]
 		},
 		"TWD": {
 			"name": "New Taiwan dollar",
-			"locations": "Taiwan"
+			"locations": [
+				"Taiwan"
+			]
 		},
 		"TZS": {
 			"name": "Tanzanian shilling",
-			"locations": "Tanzania"
+			"locations": [
+				"Tanzania"
+			]
 		},
 		"UAH": {
 			"name": "Ukrainian hryvnia",
-			"locations": "Ukraine"
+			"locations": [
+				"Ukraine"
+			]
 		},
 		"UGX": {
 			"name": "Ugandan shilling",
-			"locations": "Uganda"
+			"locations": [
+				"Uganda"
+			]
 		},
 		"USD": {
 			"name": "United States dollar",
-			"locations": "United States,  American Samoa (AS),  British Indian Ocean Territory (IO) (also uses GBP),  British Virgin Islands (VG),  Caribbean Netherlands (BQ – Bonaire, Sint Eustatius and Saba),  Ecuador (EC),  El Salvador (SV),  Guam (GU),  Haiti (HT),  Marshall Islands (MH),  Federated States of Micronesia (FM),  Northern Mariana Islands (MP),  Palau (PW),  Panama (PA) (as well as Panamanian Balboa),  Puerto Rico (PR),  Timor-Leste (TL),  Turks and Caicos Islands (TC),  U.S. Virgin Islands (VI),  United States Minor Outlying Islands (UM)"
+			"locations": [
+				"United States",
+				"American Samoa (AS)",
+				"British Indian Ocean Territory (IO) (also uses GBP)",
+				"British Virgin Islands (VG)",
+				"Caribbean Netherlands (BQ – Bonaire, Sint Eustatius and Saba)",
+				"Ecuador (EC)",
+				"El Salvador (SV)",
+				"Guam (GU)",
+				"Haiti (HT)",
+				"Marshall Islands (MH)",
+				"Federated States of Micronesia (FM)",
+				"Northern Mariana Islands (MP)",
+				"Palau (PW)",
+				"Panama (PA) (as well as Panamanian Balboa)",
+				"Puerto Rico (PR)",
+				"Timor-Leste (TL)",
+				"Turks and Caicos Isla]nds (TC)",
+				"U.S. Virgin Islands (VI)",
+				"United States Minor Outlying Islands (UM)"
+			]
 		},
 		"USN": {
 			"name": "United States dollar (next day) (funds code)",
-			"locations": "United States"
+			"locations": [
+				"United States"
+			]
 		},
 		"UYI": {
 			"name": "Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)",
-			"locations": "Uruguay"
+			"locations": [
+				"Uruguay"
+			]
 		},
 		"UYU": {
 			"name": "Uruguayan peso",
-			"locations": "Uruguay"
+			"locations": [
+				"Uruguay"
+			]
 		},
 		"UYW": {
 			"name": "Unidad previsional",
-			"locations": "Uruguay"
+			"locations": [
+				"Uruguay"
+			]
 		},
 		"UZS": {
 			"name": "Uzbekistan som",
-			"locations": "Uzbekistan"
+			"locations": [
+				"Uzbekistan"
+			]
 		},
 		"VES": {
 			"name": "Venezuelan bolívar soberano",
-			"locations": "Venezuela"
+			"locations": [
+				"Venezuela"
+			]
 		},
 		"VND": {
 			"name": "Vietnamese đồng",
-			"locations": "Vietnam"
+			"locations": [
+				"Vietnam"
+			]
 		},
 		"VUV": {
 			"name": "Vanuatu vatu",
-			"locations": "Vanuatu"
+			"locations": [
+				"Vanuatu"
+			]
 		},
 		"WST": {
 			"name": "Samoan tala",
-			"locations": "Samoa"
+			"locations": [
+				"Samoa"
+			]
 		},
 		"XAF": {
 			"name": "CFA franc BEAC",
-			"locations": "Cameroon (CM),  Central African Republic (CF),  Republic of the Congo (CG),  Chad (TD),  Equatorial Guinea (GQ),  Gabon (GA)"
+			"locations": [
+				"Cameroon (CM)",
+				"Central African Republic (CF)",
+				"Republic of the Congo (CG)",
+				"Chad (TD)",
+				"Equatorial Guinea (GQ)",
+				"Gabon (GA)"
+			]
 		},
 		"XAG": {
 			"name": "Silver (one troy ounce)"
@@ -893,55 +1292,93 @@
 		},
 		"XCD": {
 			"name": "East Caribbean dollar",
-			"locations": "Anguilla (AI),  Antigua and Barbuda (AG),  Dominica (DM),  Grenada (GD),  Montserrat (MS),  Saint Kitts and Nevis (KN),  Saint Lucia (LC),  Saint Vincent and the Grenadines (VC)"
+			"locations": [
+				"Anguilla (AI)",
+				"Antigua and Barbuda (AG)",
+				"Dominica (DM)",
+				"Grenada (GD)",
+				"Montserrat (MS)",
+				"Saint Kitts and Nevis (KN)",
+				"Saint Lucia (LC)",
+				"Saint Vincent and the Grenadines (VC)"
+			]
 		},
 		"XDR": {
 			"name": "Special drawing rights",
-			"locations": "International Monetary Fund"
+			"locations": [
+				"International Monetary Fund"
+			]
 		},
 		"XOF": {
 			"name": "CFA franc BCEAO",
-			"locations": "Benin (BJ),  Burkina Faso (BF),  Côte d'Ivoire (CI),  Guinea-Bissau (GW),  Mali (ML),  Niger (NE),  Senegal (SN),  Togo (TG)"
+			"locations": [
+				"Benin (BJ)",
+				"Burkina Faso (BF)",
+				"Côte d'Ivoire (CI)",
+				"Guinea-Bissau (GW)",
+				"Mali (ML)",
+				"Niger (NE)",
+				"Senegal (SN)",
+				"Togo (TG)"
+			]
 		},
 		"XPD": {
 			"name": "Palladium (one troy ounce)"
 		},
 		"XPF": {
 			"name": "CFP franc (franc Pacifique)",
-			"locations": "French territories of the Pacific Ocean:  French Polynesia (PF),  New Caledonia (NC),  Wallis and Futuna (WF)"
+			"locations": [
+				"French territories of the Pacific Ocean:  French Polynesia (PF)",
+				"New Caledonia (NC)",
+				"Wallis and Futuna (WF)"
+			]
 		},
 		"XPT": {
 			"name": "Platinum (one troy ounce)"
 		},
 		"XSU": {
 			"name": "SUCRE",
-			"locations": "Unified System for Regional Compensation (SUCRE)"
+			"locations": [
+				"Unified System for Regional Compensation (SUCRE)"
+			]
 		},
 		"XTS": {
 			"name": "Code reserved for testing"
 		},
 		"XUA": {
 			"name": "ADB Unit of Account",
-			"locations": "African Development Bank"
+			"locations": [
+				"African Development Bank"
+			]
 		},
 		"XXX": {
 			"name": "No currency"
 		},
 		"YER": {
 			"name": "Yemeni rial",
-			"locations": "Yemen"
+			"locations": [
+				"Yemen"
+			]
 		},
 		"ZAR": {
 			"name": "South African rand",
-			"locations": "Lesotho,  Namibia,  South Africa"
+			"locations": [
+				"Lesotho",
+				"Namibia",
+				"South Africa"
+			]
 		},
 		"ZMW": {
 			"name": "Zambian kwacha",
-			"locations": "Zambia"
+			"locations": [
+				"Zambia"
+			]
 		},
 		"ZWL": {
 			"name": "Zimbabwean dollar",
-			"locations": "Zimbabwe"
+			"locations": [
+				"Zimbabwe"
+			]
 		}
 	}
 }

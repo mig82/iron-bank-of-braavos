@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "scripts": {
-		"build": "node index.js",
-		"test": "jasmine"
-	}
+      "build": "node index.js",
+      "test": "jasmine"
+    }
   },
   "repository": {
     "type": "git",
